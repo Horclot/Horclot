@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Horclot (Dmitry)
+- 👀 I’m interested in creating android apps
+- 🌱 I am currently teaching C Sharp WPF and Kotlin Android Studio 
+- 💞️ I want to collaborate with experienced Android developers, I'm ready to get a lot of experience and progress
+- 📫 How to contact me? Telegram @horclot
