@@ -1,15 +1,30 @@
-<p align="center">
-  <strong>Dmitry</strong><br/>
-  Mobile Developer from Belarus 🇧🇾<br/>
-  <em>Thoughtful interfaces. Meaningful products.</em>
-</p>
+<div align="center">
+
+# Dmitry
+
+**Mobile Developer from Belarus 🇧🇾**  
+*Thoughtful interfaces. Meaningful products.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kotlin-2026-ready-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-Apple-000000?style=flat&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose-UI-4285F4?style=flat&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-Cross--platform-02569B?style=flat&logo=flutter&logoColor=white"/>
+
+</div>
 
 ---
 
-### About
+## About
 
-I build mobile applications with an emphasis on clarity, structure,  
-and user experience.
+I design and build mobile applications with a focus on:
+
+- clarity over complexity  
+- structure over chaos  
+- experience over features  
+
+I enjoy turning complex ideas into **simple, intuitive systems** that feel natural to use.
 
 Currently exploring:
 
@@ -18,35 +33,49 @@ Currently exploring:
 - Jetpack Compose  
 
 Working on:  
-**[Taska]([https://github.com/Horclot/Green-Corner](https://github.com/Horclot/Taska-android))** — eco-friendly mobile app.
-
-I enjoy turning complex ideas into simple, intuitive systems.
+**[Taska](https://github.com/Horclot/Taska-android)** — a tree-based task scheduler for Android  
+with a calm, intuitive interface.
 
 ---
 
-### Stack
+## Stack
 
-**Mobile**
-- Kotlin · Swift · Flutter · Android
+### Mobile
+- Kotlin · Swift · Flutter · Android SDK
 
-**UI / Design**
-- Figma · Adobe XD · Photoshop
+### UI / Design
+- Figma · Adobe Illustrator · Photoshop
 
-**Tools**
+### Tools & Platform
 - Firebase · Git · SQLite · Jetpack Compose
 
 ---
 
-### Projects
+## Projects
 
 All my work lives here:  
-👉 [github.com/Horclot](https://github.com/Horclot?tab=repositories)
+👉 **[github.com/Horclot](https://github.com/Horclot?tab=repositories)**
+
+Selected projects focus on:
+
+- productivity  
+- clean UI architecture  
+- modern mobile patterns  
+- long-term maintainability  
 
 ---
 
-### Contact
+## Contact
 
 - Email — `1822horclot@gmail.com`  
 - Telegram — [@horclot](https://t.me/horclot)  
 - Figma — https://www.figma.com/@horclot  
 - LinkedIn — [Profile](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BA%D0%B0%D1%80%D1%8B%D1%82%D0%BD%D0%B8%D0%BA-790a24342)
+
+---
+
+<div align="center">
+
+*Building interfaces that feel obvious.*
+
+</div>
