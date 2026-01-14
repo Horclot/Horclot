@@ -7,9 +7,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Kotlin-2026-ready-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-2026%20Ready-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-Apple-000000?style=flat&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Compose-UI-4285F4?style=flat&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=flat&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-Cross--platform-02569B?style=flat&logo=flutter&logoColor=white"/>
 
 </div>
