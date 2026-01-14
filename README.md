@@ -18,7 +18,7 @@ Currently exploring:
 - Jetpack Compose  
 
 Working on:  
-**[Green Corner](https://github.com/Horclot/Green-Corner)** — eco-friendly mobile app.
+**[Taska]([https://github.com/Horclot/Green-Corner](https://github.com/Horclot/Taska-android))** — eco-friendly mobile app.
 
 I enjoy turning complex ideas into simple, intuitive systems.
 
