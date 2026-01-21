@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Flutter-Cross--platform-02569B?style=flat&logo=flutter&logoColor=white"/>
 
 </div>
-
 ---
 
 ## About
